@@ -1,0 +1,5 @@
+JWT
+Interceptor    ------- Service  ------   appmodule
+
+activegaurd  --------   npm install @auth0/angular-jwt
+--save-----loginservice------activegaurd service -----module-----routing
